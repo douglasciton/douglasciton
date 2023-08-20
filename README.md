@@ -1,6 +1,6 @@
 # 💫
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=Ol%C3%A1+%F0%9F%91%8B+seja+Bem-vindo(a);ao+meu+perfil+Douglas-Vinicius-Citon)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=000&center=falso&vCenter=falso&lines=Ol%C3%A1+%F0%9F%91%8B+seja+Bem-vindo(a);ao+meu+perfil+Douglas-Vinicius-Citon)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=Douglas&label=Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 - 💞️ Estou procurando ajudar e aprender, de forma sem fins lucrativos apenas aprendizado mesmo.
