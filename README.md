@@ -28,7 +28,7 @@
 
 [![Repo DIO Versionamento de Código com Git e GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasciton/dio-lab-open-source)
 
-[![Repo Clone.DisneyPlus](https://github-readme-stats.vercel.app/api/pin/?username=douglasciton&repo=Clone.DisneyPlus&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasciton/Clone.DisneyPlus)
+
 <!---
 sou um estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar. Também estou cursando Desenvolvedor Full Stack Python, pois tenho paixão por tecnologia e estou sempre buscando aprimorar minhas habilidades em programação.
 
